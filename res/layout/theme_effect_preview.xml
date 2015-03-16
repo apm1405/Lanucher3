@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Hosin_messi add -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+   android:background="@drawable/theme_set_bg">
+    <android.support.v4.view.ViewPager
+        android:layout_weight="1"
+        android:id="@+id/theme_effect_view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"/> 
+	<LinearLayout 
+	    android:id="@+id/theme_effect_image_linear"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center">
+	    <ImageView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/dot_select"/>
+	      <ImageView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/dot_unselect"/>
+	</LinearLayout>
+	<Button 
+	    android:background="@drawable/btn_bg"
+	    android:textColor="@color/white"
+	    android:text="@string/apply"
+	    android:id="@+id/theme_effect_btn"
+	    android:layout_width="match_parent"
+	    android:layout_height="40dp"
+	    android:layout_marginLeft="45dip"
+        android:layout_marginRight="45dip"
+        android:layout_marginBottom="30dip"/>
+</LinearLayout>

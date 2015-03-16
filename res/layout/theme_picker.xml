@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Hosin_messi add -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="#ececec">
+
+    <GridView
+    android:cacheColorHint="#00000000"
+    	android:scrollbars="none"
+        android:paddingLeft="20dip"
+        android:paddingRight="20dip"
+        android:id="@+id/gridview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:columnWidth="280dp"
+        android:gravity="center"
+        android:horizontalSpacing="30dp"
+        android:numColumns="2"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="0dip" >
+    </GridView>
+</LinearLayout>

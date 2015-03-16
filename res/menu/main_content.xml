@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Hosin_messi add -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item 
+    	 android:id="@+id/menu_refresh"
+        android:icon="@drawable/theme"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="refresh"/>
+	/>
+</menu>

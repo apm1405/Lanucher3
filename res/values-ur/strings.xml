@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <skip/>
+    
+    <string name="application_name">لانچر3</string>
+    
+    <string name="home">ہوم اسکرین</string>
+    
+    <string name="uid_name">Android Core ایپس</string>
+    
+    <string name="folder_name"/>
+    
+    <string name="wallpaper_instructions">وال پیپر مرتب کريں</string>
+    
+    
+    <plurals name="number_of_items_selected">
+        <item quantity="zero">%1$d منتخب</item>
+        <item quantity="one">%1$d منتخب</item>
+        <item quantity="other">%1$d منتخب</item>
+    </plurals>
+    
+    <string name="wallpaper_accessibility_name">وال پیپر %1$d از %2$d</string>
+    
+    <string name="announce_selection"><xliff:g id="label" example="Wallpaper3of10">%1$s</xliff:g> منتخب ہوئے</string>
+
+    
+    <string name="wallpaper_delete">مٹائيں</string>
+    
+    <string name="pick_image">تصویر چنیں</string>
+    
+    <string name="pick_wallpaper">وال پیپر</string>
+    
+    <string name="crop_wallpaper">وال پیپر تراشیں</string>
+    
+    <string name="activity_not_found">اپلیکیشن نصب نہیں ہے۔</string>
+    
+    <string name="widgets_tab_label">وڈجیٹ</string>
+
+    <string name="widget_adder">وڈجیٹ</string>
+
+    <string name="toggle_weight_watcher">Mem دکھائیں</string>
+
+    
+    
+    <string name="long_press_widget_to_add">وڈجیٹ اٹھانے کے لئے چھوئيں اور پکڑیں.</string>
+    
+    <string name="market">خریداری کریں</string>
+    
+    
+    <string name="widget_dims_format">%1$d \u00d7 %2$d</string>
+
+    
+    
+    
+    <string name="external_drop_widget_error">آئٹم کو اس ہوم اسکرین پر نہیں گرا سکا۔</string>
+    
+    <string name="external_drop_widget_pick_title">بنانے کے لئے وڈجیٹ منتخب کریں</string>
+
+    
+    <skip/>
+    
+    <string name="rename_folder_label">فولڈر کا نام</string>
+    
+    <string name="rename_folder_title">فولڈر کو نیا نام دیں</string>
+    
+    <string name="rename_action">ٹھیک ہے</string>
+    
+    <string name="cancel_action">منسوخ</string>
+
+    
+    <skip/>
+    
+    <string name="menu_item_add_item">ہوم اسکرین میں شامل کریں</string>
+    
+    <string name="group_applications">ایپس</string>
+    
+    <string name="group_shortcuts">شارٹ کٹ</string>
+    
+    <string name="group_widgets">وڈجیٹ</string>
+    
+    <string name="completely_out_of_space">آپ کے ہوم اسکرینز پر مزید جگہ نہیں ہے۔</string>
+    
+    <string name="out_of_space">اس ہوم اسکرین میں مزید جگہ نہيں.</string>
+    
+    <string name="hotseat_out_of_space">ہاٹ سیٹ پر مزید جگہ نہیں ہے۔</string>
+    
+    <string name="invalid_hotseat_item">یہ وڈجیٹ ہاٹ سیٹ کے لئے بہت بڑا ہے.</string>
+    
+    <string name="shortcut_installed">شارٹ کٹ \" <xliff:g id="name" example="Browser">%s</xliff:g>\" بنایا گیا۔ </string>
+    
+    <string name="shortcut_uninstalled">شارٹ کٹ \" <xliff:g id="name" example="Browser">%s</xliff:g>\" کو ہٹایا گیا۔ </string>
+    
+    <string name="shortcut_duplicate">شارٹ کٹ \" <xliff:g id="name" example="Browser">%s</xliff:g>\" پہلے سے موجود ہے۔ </string>
+
+    
+    <string name="title_select_shortcut">شارٹ کٹ چنیں</string>
+    
+    <string name="title_select_application">ایپ منتخب کریں</string>
+
+    
+    <string name="all_apps_button_label">ایپس</string>
+    
+    <string name="all_apps_home_button_label">ہوم اسکرین</string>
+    
+    <string name="delete_zone_label_workspace">ہٹائيں</string>
+    
+    <string name="delete_zone_label_all_apps">غیر نصب کرنا</string>
+
+    
+    <string name="delete_target_label">ہٹائيں</string>
+    
+    <string name="delete_target_uninstall_label">غیر نصب کرنا</string>
+    
+    <string name="info_target_label">ایپ کی معلومات</string>
+
+    
+    <string name="accessibility_search_button">تلاش</string>
+    
+    <string name="accessibility_voice_search_button">وائس کی تلاش</string>
+    
+    <string name="accessibility_all_apps_button">ایپس</string>
+    
+    <string name="accessibility_delete_button">ہٹائيں</string>
+
+    
+    <string name="delete_zone_label_all_apps_system_app">تجدید کی تنصیب ختم کریں</string>
+
+    
+    
+
+    
+    <skip/>
+    
+    <string name="cab_menu_delete_app">ایپ کی تنظیم ختم کریں</string>
+    
+    <string name="cab_menu_app_info">ایپ کی تفصیلات</string>
+    
+    <string name="cab_app_selection_text">1 ایپ منتخب</string>
+    
+    <string name="cab_widget_selection_text">1 وڈجیٹ منتخب</string>
+    
+    <string name="cab_folder_selection_text">1 فولڈر منتخب</string>
+    
+    <string name="cab_shortcut_selection_text">1 شارٹ کٹ منتخب</string>
+
+    
+    <skip/>
+    
+    <string name="permlab_install_shortcut">شارٹ کٹ منتخب کریں</string>
+    
+    <string name="permdesc_install_shortcut">اس کے ذریعے کوئی ایپ صارف کی مداخل کے بغیر شارٹ کٹ شامل کرسکتا ہے.</string>
+    
+    <string name="permlab_uninstall_shortcut">ایپ کی تنصیب ختم کریں</string>
+    
+    <string name="permdesc_uninstall_shortcut">صارف کی مداخلت کے بغیر اطلاق کو شارٹ کٹس ہٹانے کی اجازت دیں۔</string>
+    
+    <string name="permlab_read_settings">ہوم ترتیبات اور شارٹ کٹ پڑھیں</string>
+    
+    <string name="permdesc_read_settings">اطلاق کو ہوم میں ترتیبات اور شارٹ کٹس کو پڑھنے کی اجازت دیں۔</string>
+    
+    <string name="permlab_write_settings">ہوم ترتیبات اور شارٹ کٹ لکھیں</string>
+    
+    <string name="permdesc_write_settings">اطلاق کو ہوم میں ترتیبات اور شارٹ کٹس کو تبدیل کرنے کی اجازت دیں۔</string>
+
+    
+    <skip/>    
+
+    
+    <string name="gadget_error_text">وڈجیٹ لوڈ کرنے میں مسئلہ</string>
+
+    
+    <string name="uninstall_system_app_text">یہ سسٹم کا اپلیکیشن ہے اور غیر نصب نہیں کیا جاسکتا۔</string>
+
+    
+    <string name="dream_name">راکٹ لانچر</string>
+
+    
+    <string name="folder_hint_text">بے نام فولڈر</string>
+
+    
+    <skip/>
+
+    
+    <string name="workspace_description_format">ہوم اسکرین %1$d</string>
+
+    
+    <string name="default_scroll_format">صفحہ %2$d میں سے 12$d</string>
+    
+    <string name="workspace_scroll_format">ہوم اسکرین %1$d از %2$d</string>
+    
+    <string name="apps_customize_apps_scroll_format">ایپس کا صفحہ %2$d میں سے 12$d</string>
+    
+    <string name="apps_customize_widgets_scroll_format">وڈجیٹ کا صفحہ %2$d میں سے 12$d</string>
+
+    
+    
+    <string name="first_run_cling_title">خوش آمدید!</string>
+    
+    <string name="first_run_cling_description">گھر پر خود سے بنائیں۔</string>
+    
+    <string name="first_run_cling_custom_content_hint"/>
+    
+    <string name="first_run_cling_search_bar_hint"/>
+    
+    <string name="first_run_cling_create_screens_hint">اپلیکیشنز اور فولڈرز کیلئے مزید اسکرینز بنائیں</string>
+    
+    <string name="workspace_cling_title">اپنی جگہ کا نظم کریں</string>
+    
+    <string name="workspace_cling_move_item">وال پیپر، ویجٹس اور ترتیبات کا نظم کرنے کیلئے پس منظر کو مس کریں اور پکڑے رہیں۔</string>
+    
+    <string name="all_apps_cling_title">کچھ ایپس منتخب کریں</string>
+    
+    <string name="all_apps_cling_add_item">اپنی ہوم اسکرین پر کوئی ایپ شامل کرنے کے لئے اسے چھوئيں اور پکڑے رکھیں۔</string>
+    
+    <string name="folder_cling_title">یہاں ایک فولڈر ہے</string>
+    
+    <string name="folder_cling_create_folder">اس طرح کا ایک بنانے کیلئے، اپلیکیشن کو مس کریں اور پکڑے رہیں، پھر اسے دوسرے کے اوپر منتقل کریں۔</string>
+    
+    <string name="cling_dismiss">ٹھیک ہے</string>
+    
+    <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
+    <add-resource type="string" name="default_folder_name"/>
+
+    
+    
+    <string name="folder_opened">فولڈر کھولا گیا <xliff:g id="width" example="5">%1$d</xliff:g> بذریعہ <xliff:g id="height" example="3">%2$d</xliff:g> </string>
+    
+    <string name="folder_tap_to_close">فولڈر منتخب کرنے کیلئے چھوئیں</string>
+    
+    <string name="folder_tap_to_rename">نام تبدیل کرنا محفوظ کرنے کیلئے چھوئیں</string>
+    
+    <string name="folder_closed">فولڈر بند ہوگیا</string>
+    
+    <string name="folder_renamed">فولڈر بنام <xliff:g id="name" example="Games">%1$s</xliff:g> </string>
+    
+    <string name="folder_name_format">فولڈر: <xliff:g id="name" example="Games">%1$s</xliff:g> </string>
+
+    
+
+    
+    
+    <string name="custom_workspace_cling_title_1"/>
+    
+    <string name="custom_workspace_cling_description_1"/>
+    
+    <string name="custom_workspace_cling_title_2"/>
+    
+    <string name="custom_workspace_cling_description_2"/>
+
+    
+    <string name="debug_memory_activity">* HPROF</string>
+
+    
+    
+    <string name="widget_button_text">وڈجیٹ</string>
+    
+    <string name="wallpaper_button_text">وال پیپر</string>
+    
+    <string name="settings_button_text">ترتیبات</string>
+</resources>

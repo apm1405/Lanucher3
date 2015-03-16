@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <skip/>
+    
+    <string name="application_name">Launcher3</string>
+    
+    <string name="home">ပင်မ</string>
+    
+    <string name="uid_name">အန်းဒရိုက် ကိုး(လ်) လုပ်ငန်းသုံး ပရိုဂရမ်</string>
+    
+    <string name="folder_name"/>
+    
+    <string name="wallpaper_instructions">နောက်ခံစက္ကူ တပ်ဆင်သည်</string>
+    
+    
+    <plurals name="number_of_items_selected">
+        <item quantity="zero">%1$d ရွေးချယ်ပြီး</item>
+        <item quantity="one">%1$d ရွေးချယ်ပြီး</item>
+        <item quantity="other">%1$d ရွေးချယ်ပြီး</item>
+    </plurals>
+    
+    <string name="wallpaper_accessibility_name">နောက်ခံစက္ကူ %2$d ခုမှ %1$d ခု</string>
+    
+    <string name="announce_selection">ရွေးထားသော <xliff:g id="label" example="Wallpaper3of10">%1$s</xliff:g></string>
+
+    
+    <string name="wallpaper_delete">ဖျက်ပါ</string>
+    
+    <string name="pick_image">ပုံရွေးပါ</string>
+    
+    <string name="pick_wallpaper">နောက်ခံစက္ကူများ</string>
+    
+    <string name="crop_wallpaper">နောက်ခံစက္ကူကို ညှပ်ပါ</string>
+    
+    <string name="activity_not_found">လုပ်ငန်းသုံးပရိုဂရမ်ကို မတပ်ဆင်ထားပါ။</string>
+    
+    <string name="widgets_tab_label">ဝဒ်ဂျက်(စ်)</string>
+
+    <string name="widget_adder">ဝဒ်ဂျက်(စ်)</string>
+
+    <string name="toggle_weight_watcher">မှတ်ဉာဏ် ပြပါ။</string>
+
+    
+    
+    <string name="long_press_widget_to_add">ဝဒ်ဂျက် တစ်ခုကို ရွေးချုယ်ရန် ထိပြီး ကိုင်ထားပါ။</string>
+    
+    <string name="market">စျေးဝယ်သည်</string>
+    
+    
+    <string name="widget_dims_format">%1$d \u00d7 %2$d</string>
+
+    
+    
+    
+    <string name="external_drop_widget_error">ဤပင်မ စကရင်ပေါ်တွင် အရာဝတ္ထုများကို မထားနိုင်ပါ။</string>
+    
+    <string name="external_drop_widget_pick_title">ဖန်တီးရန် ဝဒ်ဂျက်ကို ရွေးချယ်သည်</string>
+
+    
+    <skip/>
+    
+    <string name="rename_folder_label">ဖို(လ်)ဒါ အမည်</string>
+    
+    <string name="rename_folder_title">ဖို(လ်)ဒါ အမည် ပြန်ပေးသည်</string>
+    
+    <string name="rename_action">အဆင်ပြေပါသည်</string>
+    
+    <string name="cancel_action">ဖျက်ပစ်သည်</string>
+
+    
+    <skip/>
+    
+    <string name="menu_item_add_item">ပင်မ ဖန်သားပြင် သို့ ပေါင်းထည့်သည်</string>
+    
+    <string name="group_applications">လုပ်ငန်းသုံး ပရိုဂရမ်</string>
+    
+    <string name="group_shortcuts">အတိုနည်းများ</string>
+    
+    <string name="group_widgets">ဝဒ်ဂျက်(စ်)</string>
+    
+    <string name="completely_out_of_space">သင့် ပင်မ ဖန်သားပြင်များတွင် အခန်းပို မရှိပါ။</string>
+    
+    <string name="out_of_space">ဤ ပင်မ ဖန်သားပြင်ပေါ်တွင် အခန်းပို မရှိပါ။</string>
+    
+    <string name="hotseat_out_of_space">အရေးကြီးသော လုပ်ဆောင်မှုများပေါ်တွင် အခန်းပို မရှိပါ။</string>
+    
+    <string name="invalid_hotseat_item">အရေးကြီးသော လုပ်ငန်းဆောင်ရွက်မှုအတွက် ဤဝဒ်ဂျက် သည် အလွန်ကြီးသည်။</string>
+    
+    <string name="shortcut_installed">အတိုနည်း\" <xliff:g id="name" example="Browser">%s</xliff:g>\" ဖန်တီးခဲ့သည်။ </string>
+    
+    <string name="shortcut_uninstalled">အတိုနည်း\" <xliff:g id="name" example="Browser">%s</xliff:g>\" ဖယ်ရှားခြင်း ခံခဲ့ရသည်။ </string>
+    
+    <string name="shortcut_duplicate">အတိုနည်း\" <xliff:g id="name" example="Browser">%s</xliff:g>\" တည်ရှိပြီး ဖြစ်သည်။ </string>
+
+    
+    <string name="title_select_shortcut">အတိုနည်း ရွေးချယ်သည်</string>
+    
+    <string name="title_select_application">လုပ်ငန်းသုံး ပရိုဂရမ် ရွေးချယ်သည်</string>
+
+    
+    <string name="all_apps_button_label">လုပ်ငန်းသုံး ပရိုဂရမ်</string>
+    
+    <string name="all_apps_home_button_label">ပင်မ</string>
+    
+    <string name="delete_zone_label_workspace">ဖယ်ရှားသည်</string>
+    
+    <string name="delete_zone_label_all_apps">မတပ်ဆင်ပါ</string>
+
+    
+    <string name="delete_target_label">ဖယ်ရှားသည်</string>
+    
+    <string name="delete_target_uninstall_label">မတပ်ဆင်ပါ</string>
+    
+    <string name="info_target_label">လုပ်ငန်းသုံး ပရိုဂရမ် သတင်းအချက်အလက်</string>
+
+    
+    <string name="accessibility_search_button">ရှာဖွေသည်</string>
+    
+    <string name="accessibility_voice_search_button">အသံ ရှာဖွေသည်</string>
+    
+    <string name="accessibility_all_apps_button">လုပ်ငန်းသုံး ပရိုဂရမ်</string>
+    
+    <string name="accessibility_delete_button">ဖယ်ရှားသည်</string>
+
+    
+    <string name="delete_zone_label_all_apps_system_app">အသစ်ပြင်ဆင်မှုကို မတပ်ဆင်ပါ</string>
+
+    
+    
+
+    
+    <skip/>
+    
+    <string name="cab_menu_delete_app">လုပ်ငန်းသုံး ပရိုဂရမ်ကို မတပ်ဆင်ပါ</string>
+    
+    <string name="cab_menu_app_info">လုပ်ငန်းသုံး ပရိုဂရမ် အသေးစိတ်</string>
+    
+    <string name="cab_app_selection_text">လုပ်ငန်းသုံး ပရိုဂရမ် ၁ ခု ရွေးချယ်ခဲ့သည်</string>
+    
+    <string name="cab_widget_selection_text">ဝဒ်ဂျက် ၁ ခု ရွေးချယ်ခဲ့သည်</string>
+    
+    <string name="cab_folder_selection_text">ဖို(လ်)ဒါ ၁ ခု ရွေးချယ်ခဲ့သည်</string>
+    
+    <string name="cab_shortcut_selection_text">အတိုနည်း ၁ ခု ရွေးချယ်ခဲ့သည်</string>
+
+    
+    <skip/>
+    
+    <string name="permlab_install_shortcut">အတိုနည်းများ တပ်ဆင်သည်</string>
+    
+    <string name="permdesc_install_shortcut">အသုံးပြုသူ ကြားဝင်စွက်ခြင်း မရှိဘဲ အတိုနည်းများ ပေါင်းထည့်ရန် လုပ်ငန်းသုံး ပရိုဂရမ်ကို ခွင့်ပြုသည်။</string>
+    
+    <string name="permlab_uninstall_shortcut">အတိုနည်းများ မတပ်ဆင်ပါ</string>
+    
+    <string name="permdesc_uninstall_shortcut">အသုံးပြုသူ ကြားဝင်စွက်ခြင်း မရှိဘဲ အတိုနည်းများ ဖယ်ရှားရန် လုပ်ငန်းသုံး ပရိုဂရမ်ကို ခွင့်ပြုသည်။</string>
+    
+    <string name="permlab_read_settings">ပင်မ အပြင်အဆင်များ နှင့် အတိုနည်းများ ဖတ်သည်</string>
+    
+    <string name="permdesc_read_settings">ပင်မတွင် အပြင်အဆင်များ နှင့် အတိုနည်းများကို ဖတ်ရန် လုပ်ငန်းသုံး ပရိုဂရမ်ကို ခွင့်ပြုသည်။</string>
+    
+    <string name="permlab_write_settings">ပင်မ အပြင်အဆင်များ နှင့် အတိုနည်းများ ရေးသည်</string>
+    
+    <string name="permdesc_write_settings">ပင်မတွင် အပြင်အဆင်များ နှင့် အတိုနည်းများကို ပြောင်းရန် လုပ်ငန်းသုံး ပရိုဂရမ်ကို ခွင့်ပြုသည်။</string>
+
+    
+    <skip/>    
+
+    
+    <string name="gadget_error_text">ဝဒ်ဂျက် တင်ခြင်း ပြဿနာဖြစ်သည်</string>
+
+    
+    <string name="uninstall_system_app_text">ဤအရာသည် စနစ်ပရိုဂရမ် တစ်ခုဖြစ်ပြီး ပြန်မဖြုတ်နိုင်ပါ။</string>
+
+    
+    <string name="dream_name">ဒုံးကျည် လောင်ချာ</string>
+
+    
+    <string name="folder_hint_text">အမည် မရှိသော ဖို(လ်) ဒါ</string>
+
+    
+    <skip/>
+
+    
+    <string name="workspace_description_format">ပင်မ ဖန်သားပြင် %1$d</string>
+
+    
+    <string name="default_scroll_format">စာမျက်နှာ %2$d ၏ %1$d</string>
+    
+    <string name="workspace_scroll_format">ပင်မ ဖန်သားပြင် %2$d ၏ %1$d</string>
+    
+    <string name="apps_customize_apps_scroll_format">လုပ်ငန်းသုံး ပရိုဂရမ်များ စာမျက်နှာ %2$d ၏ %1$d</string>
+    
+    <string name="apps_customize_widgets_scroll_format">ဝဒ်ဂျက်(စ်)များ စာမျက်နှာ %2$d ၏ %1$d</string>
+
+    
+    
+    <string name="first_run_cling_title">ကြိုဆိုပါသည်။</string>
+    
+    <string name="first_run_cling_description">အိမ်တွင် သင်ကိုယ်တိုင် ပြုလုပ်ပါ။</string>
+    
+    <string name="first_run_cling_custom_content_hint"/>
+    
+    <string name="first_run_cling_search_bar_hint"/>
+    
+    <string name="first_run_cling_create_screens_hint">ပရိုဂရမ်များနှင့် ဖိုဒါများအတွက် နောက်ထပ် စကရင်များ ဖန်တီးပါ</string>
+    
+    <string name="workspace_cling_title">သင့်နေရာလွတ်များကို စုစည်းပါ</string>
+    
+    <string name="workspace_cling_move_item">နောက်ခံစက္ကူ၊ ဝစ်ဂျက်များနှင့်ဆက်တင်များကို စီမံရန် နောက်ခံကို ထိကိုင်ထားပါ။</string>
+    
+    <string name="all_apps_cling_title">အချို့ လုပ်ငန်းသုံး ပရိုဂရမ်များ ရွေးချယ်သည်</string>
+    
+    <string name="all_apps_cling_add_item">သင်၏ ပင်မ ဖန်သားပြင် ပေါ်တွင် လုပ်ငန်းသုံး ပရိုဂရမ်တစ်ခုကိုပေါင်းထည့်ရန် ၎င်းကို ထိပြီး ကိုင်ထားပါ။</string>
+    
+    <string name="folder_cling_title">ဒီမှာ ဖိုဒါတစ်ခုရှိသည်</string>
+    
+    <string name="folder_cling_create_folder">ဤအရာကဲ့သို့ဖန်တီးရန် ပရိုဂရမ်ကို ထိကိုင်ထားပြီး ၎င်းကို အခြားတစ်ခုပေါ်သို့ ရွှေ့ပါ။</string>
+    
+    <string name="cling_dismiss">အဆင်ပြေပါသည်</string>
+    
+    <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
+    <add-resource type="string" name="default_folder_name"/>
+
+    
+    
+    <string name="folder_opened"> <xliff:g id="width" example="5">%1$d</xliff:g> အမြှောက် <xliff:g id="height" example="3">%2$d</xliff:g> ဖို(လ်)ဒါ ဖွင့်ထားခဲ့သည် </string>
+    
+    <string name="folder_tap_to_close">ဖို(လ်)ဒါ ကို ပိတ်ရန် ထိပါ</string>
+    
+    <string name="folder_tap_to_rename">အမည် ပြန်ပေးခြင်းကို သိမ်းရန် ထိပါ</string>
+    
+    <string name="folder_closed">ဖို(လ်)ဒါ ပိတ်ပြီးပြီ</string>
+    
+    <string name="folder_renamed">ဖို(လ်)ဒါ ကို <xliff:g id="name" example="Games">%1$s</xliff:g>သို့ အမည်ပြန်ပေးခဲ့သည် </string>
+    
+    <string name="folder_name_format">ဖို(လ်)ဒါ - <xliff:g id="name" example="Games">%1$s</xliff:g> </string>
+
+    
+
+    
+    
+    <string name="custom_workspace_cling_title_1"/>
+    
+    <string name="custom_workspace_cling_description_1"/>
+    
+    <string name="custom_workspace_cling_title_2"/>
+    
+    <string name="custom_workspace_cling_description_2"/>
+
+    
+    <string name="debug_memory_activity">* HPROF</string>
+
+    
+    
+    <string name="widget_button_text">ဝဒ်ဂျက်(စ်)</string>
+    
+    <string name="wallpaper_button_text">နောက်ခံစက္ကူများ</string>
+    
+    <string name="settings_button_text">အဆင်အပြင်များ</string>
+</resources>
